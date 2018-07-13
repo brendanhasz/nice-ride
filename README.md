@@ -1,4 +1,4 @@
-# nice-ride
+# Nice Ride MN Bike Share EDA
 
-Nice Ride MN bike share analysis
+This repository contains a Jupyter notebook analyzing Nice Ride MN's public Bike Share data.
 
